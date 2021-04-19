@@ -1,0 +1,2 @@
+- 👋🏻 Hi, my name is Paul.
+- ☕ 🌐 Java & Web development.
