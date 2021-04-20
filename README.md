@@ -11,3 +11,7 @@ Mindless undeclared university student. 👨🏼‍💻
 <p align="center" >
   <img alt="Paul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=paulstrano&count_private=true&show_icons=true&theme=merko"  > </p>
 </p>
+
+### Social Media 💬
+
+- 👥 Discord: Sancires#3330
