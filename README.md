@@ -3,8 +3,8 @@
 Mindless undeclared university student. 👨🏼‍💻
 
 - 🐮 Current Project: Santopia 
-- 🌱 Always looking to collaborate on Java projects.
-- 🔭 Languages: Java, HTML, CSS, JavaScript, Go, and a few more.
+- 🌱 Always looking to collaborate on Java or Kotlin projects.
+- 🔭 Languages: Java, Kotlin, HTML, CSS, JavaScript, Go, and a few more.
 
 
 ### Some Stats About Me 📊
