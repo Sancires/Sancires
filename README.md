@@ -9,7 +9,7 @@ Mindless undeclared university student. 👨🏼‍💻
 
 ### Some Stats About Me 📊
 <p align="center" >
-  <img alt="Paul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=paulstrano&count_private=true&show_icons=true&theme=merko"  > </p>
+  <img alt="Paul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=paulstrano&count_private=true&show_icons=true&theme=tokyonight"  > </p>
 </p>
 
 ### Social Media 💬
