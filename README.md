@@ -2,7 +2,7 @@
 
 Mindless undeclared university student. 👨🏼‍💻
 
-- 🐮 Current Project: Santopia 
+- 🐮 Current Project: [Santopia](https://github.com/paulstrano/Santopia)
 - 🌱 Always looking to collaborate on Java or Kotlin projects.
 - 🔭 Languages: Java, Kotlin, HTML, CSS, JavaScript, Go, and a few more.
 
