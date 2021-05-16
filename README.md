@@ -7,7 +7,7 @@
 🌎 Terra Earth: Creating a Minecraft Earth map using Terra. </br>
 
 ---
-
-![Sancires' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sancires&show_icons=true&hide_border=true&theme=graywhite)&nbsp;&nbsp; </br>
-[![Sancires' Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Sancires)](https://git.io/streak-stats) </br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nord"> </br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sancires&show_icons=true&hide_border=true&theme=nord"> </br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sancires&theme=nord"> </br>
 </br>
