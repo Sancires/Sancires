@@ -5,7 +5,7 @@
 
 ### Current Projects 📆
 🌎 Terra Earth: Creating a Minecraft Earth map using Terra. </br>
-💰 Pluto: A physical economy plugin for Spigot servers. </br>
+💰 Plutos: A platform agnostic physical economy plugin for Minecraft. </br>
 
 ---
 
